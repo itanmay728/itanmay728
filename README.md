@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ktanmay1130@gmail.com**
 
-- ⚡ Fun fact **How to make it more FUN. ...**
+- ⚡ Fun fact **How to make it more FUN...🥴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
