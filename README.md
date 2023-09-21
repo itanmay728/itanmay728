@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width"300" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="coding" width="500" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itanmay728&label=Profile%20views&color=0e75b6&style=flat" alt="itanmay728" /> </p>
 
