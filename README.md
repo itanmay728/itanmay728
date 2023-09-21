@@ -5,11 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itanmay728&label=Profile%20views&color=0e75b6&style=flat" alt="itanmay728" /> </p>
 
+- 🔭 I pursued B.Tech in **Computer Science**
+
 - 🌱 I’m currently learning **Java Full stack developer**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **ktanmay1130@gmail.com**
+
+- ⚡ Fun fact **How to make it more FUN. ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
