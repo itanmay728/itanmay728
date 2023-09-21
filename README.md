@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Full stack developer**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java and related to tech stuff**
 
 - 📫 How to reach me **ktanmay1130@gmail.com**
 
