@@ -6,7 +6,7 @@
 
 - 🔭 I pursued B.Tech in **Computer Science.**
 
-- 🌱 I’m currently learning **Java Full stack developer.**
+- 🌱 I’m currently learning **Java Full stack.**
 
 - 💬 Ask me about **Java and related to tech stuff.**
 
