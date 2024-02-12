@@ -1,4 +1,4 @@
-![MasterHead](https://unsplash.com/photos/a-computer-screen-with-a-web-page-on-it-q1p2DrLBtko)
+
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="350" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
