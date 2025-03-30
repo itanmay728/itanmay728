@@ -13,7 +13,17 @@
 
 - 📫 How to reach me **ktanmay1130@gmail.com**  
 
-- ⚡ Fun fact **How to make it more FUN..🥴..**  
+- ⚡ Fun fact **How to make it more FUN..🥴..**
+  
+<p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=itanmay728&label=Profile%20views&color=0e75b6&style=flat" alt="itanmay728" />  
+   <a href="https://github.com/itanmay728">
+     <img src="https://img.shields.io/github/stars/itanmay728?style=social" alt="GitHub stars">
+   </a>
+   <img src = "https://img.shields.io/github/followers/itanmay728?style=social" alt = "itanmay728"/>
+ </p>
+ 
+<br>
 <br>
 <br>
 
