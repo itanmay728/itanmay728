@@ -14,7 +14,7 @@
 - 📫 How to reach me **ktanmay1130@gmail.com**  
 
 - ⚡ Fun fact **How to make it more FUN..🥴..**  
-<br/>
+<br>
 <br>
 
 ---
